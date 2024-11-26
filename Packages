@@ -1,6 +1,6 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
-Section: Tweaks
+Section: Test
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -14,7 +14,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.new
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Section: Test
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.ryannair05.cask3
 Version: 1.0.2
-Section: Tweaks
+Section: Theming Tools
 Maintainer: Alex <alex@altarweb.com>
 Depends: firmware (>11.0), com.theos.orion
 Architecture: iphoneos-arm
@@ -42,7 +42,7 @@ Depiction: https://xtguy.github.io/Altar/depictions/?p=com.ryannair05.cask3
 
 Package: com.spark.snowboard
 Version: 1.4.20~Beta4
-Section: Themes
+Section: Theming Tools
 Maintainer: Alex <alex@altarweb.com>
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
